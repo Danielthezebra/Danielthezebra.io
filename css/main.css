@@ -1,10 +1,10 @@
 html 	{
-	color: #fff;
+	background-color: #fff;
 }
 body {
     margin: 60px auto;
     width: 70%;
-	color: e0e0e0;
+	background-color: e0e0e0;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -21,7 +21,6 @@ a {
     color: #999;
 }
 a:hover {
-    text-decoration: underline;
 	color: #03c;
 }
 h1 {
