@@ -13,6 +13,8 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+	width: 90%;
+	margin: 0px;
 	text-align: center;
 }
 nav ul li, footer ul li {
