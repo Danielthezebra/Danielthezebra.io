@@ -1,6 +1,10 @@
+html 	{
+	color: #fff;
+}
 body {
     margin: 60px auto;
     width: 70%;
+	color: e0e0e0
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -18,13 +22,14 @@ a {
 }
 a:hover {
     text-decoration: underline;
+	color: #03c;
 }
 h1 {
-    font-size: 6em;
+    font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
-    font-size: 3em;
+    font-size: 2em;
 	color: #333;
 }
 p {
