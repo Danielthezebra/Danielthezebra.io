@@ -1,2 +1,2 @@
-# Danielthezebra.io
+# Info
 Personal Site
